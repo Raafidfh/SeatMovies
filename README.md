@@ -78,7 +78,6 @@ php artisan serve
 
 1. [Stisla](https://github.com/stisla/stisla), Bootstrap UI template.
 2. [Laravel](https://laravel.com), web aplication framework.
-3. 
 
 HEAD
 f60e249 (Update README.md)
@@ -94,6 +93,7 @@ e905036 (Update README.md)
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+HEAD
 HEAD
 
 ## About Laravel
@@ -150,10 +150,13 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 # If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-> > > > > > > e905036 (Update README.md)
+e905036 (Update README.md)
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-6f7987f (initialize Repo)
+# 6f7987f (initialize Repo)
+
+<p align="center">The Laravel framework is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.</p>
+7131587 (Update README.md)
