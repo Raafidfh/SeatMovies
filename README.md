@@ -11,12 +11,16 @@ Platform pembelian tiket bioskop sederhana menggunakan laravel, php, reactjs, Ta
 # SeaFlashTix 📽️
 
 HEAD
+HEAD
 33b1051 (Update README.md)
 
 Sea Cinema adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Sea Cinema, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
 
 SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Sea Cinema, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
 7f03488 (Update README.md)
+
+SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan SeaFlashTix, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
+e3fa06e (Update README.md)
 
 ## Tools Requirement
 
