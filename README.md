@@ -76,7 +76,9 @@ php artisan serve
 
 ## Credits
 
-[MIT](https://choosealicense.com/licenses/mit/)
+1. [Stisla](https://choosealicense.com/licenses/mit/), Bootstrap UI template.
+2. [Laravel](https://laravel.com), web aplication framework.
+3. 
 
 HEAD
 f60e249 (Update README.md)
