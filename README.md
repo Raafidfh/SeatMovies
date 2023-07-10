@@ -32,7 +32,14 @@ Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-ins
 
 ## Running Project
 
+HEAD
+
 1. Clone project ke local.
+
+Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install.
+
+1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
+    > > > > > > > d9efd63 (Update README.md)
 
 ```
 git clone https://github.com/ilhamydn17/seaAcd23.git
@@ -56,7 +63,13 @@ cp .env.example .env
 php artisan key:generate
 ```
 
+HEAD
+
 5. Menjalakan migration
+
+6. Menjalakan migration, ketik 'yes' jika setelah menjalankan perintah ini muncul permintaan untuk membuat database baru.
+
+> > > > > > > d9efd63 (Update README.md)
 
 ```
 php artisan migrate
@@ -68,10 +81,25 @@ php artisan migrate
 php artisan db:seed
 ```
 
+HEAD
+
 7. Menjalankan aplikasi -> pastikan telah menjalankan MySQL dan Apache pada melalui XAMPP control panel terlebih dahulu.
+
+8. Menjalankan aplikasi, setelah menjalankan perintah ini akan muncul alamat host yang sedang berjalan, copy alamat host tersebut dan buka di browser anda.
+   d9efd63 (Update README.md)
 
 ```
 php artisan serve
+```
+
+Note
+
+```
+*). Untuk melakukan login:
+    username => ilham_
+    password => ilham123,
+    atau dapat dilihat pada file UserSeeder.php
+*). Anda juga dapat melakukan registrasi untuk membuat data akun baru.
 ```
 
 ## Credits
