@@ -34,9 +34,15 @@ Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-ins
 
 HEAD
 
+HEAD
+
 1. Clone project ke local.
 
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install.
+
+Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install. Jalankan perintah-perintah di bawah ini dengan menggunakan terminal Git Bash.
+
+> > > > > > > e03434e (Update README.md)
 
 1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
     > > > > > > > d9efd63 (Update README.md)
