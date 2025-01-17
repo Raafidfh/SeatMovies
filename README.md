@@ -1,27 +1,6 @@
-HEAD
-HEAD
-HEAD
-HEAD
-
 # SeatMovies
 
 Platform pembelian tiket bioskop sederhana menggunakan laravel, php, reactjs, TailwindCSS, MySQL.
-
-# Sea Cinema 📽️
-
-# SeaFlashTix 📽️
-
-HEAD
-HEAD
-33b1051 (Update README.md)
-
-Sea Cinema adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Sea Cinema, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
-
-SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Sea Cinema, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
-7f03488 (Update README.md)
-
-SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan SeaFlashTix, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
-e3fa06e (Update README.md)
 
 ## Tools Requirement
 
@@ -33,23 +12,17 @@ Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-ins
 
 ## Running Project
 
-HEAD
-
-HEAD
-
 1. Clone project ke local.
 
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install.
 
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install. Jalankan perintah-perintah di bawah ini dengan menggunakan terminal Git Bash.
 
-e03434e (Update README.md)
 
 1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
-   d9efd63 (Update README.md)
 
 ```
-git clone https://github.com/ilhamydn17/seaAcd23.git
+git clone https://github.com/Raafidfh/SeatMovies.git
 ```
 
 2. Jalankan Git Bash pada folder repositori project yang sudah di clone, kemudian update composer.
@@ -76,8 +49,6 @@ HEAD
 
 6. Menjalakan migration, ketik 'yes' jika setelah menjalankan perintah ini muncul permintaan untuk membuat database baru.
 
-> > > > > > > d9efd63 (Update README.md)
-
 ```
 php artisan migrate
 ```
@@ -88,12 +59,9 @@ php artisan migrate
 php artisan db:seed
 ```
 
-HEAD
-
 7. Menjalankan aplikasi -> pastikan telah menjalankan MySQL dan Apache pada melalui XAMPP control panel terlebih dahulu.
 
 8. Menjalankan aplikasi, setelah menjalankan perintah ini akan muncul alamat host yang sedang berjalan, copy alamat host tersebut dan buka di browser anda.
-   d9efd63 (Update README.md)
 
 ```
 php artisan serve
@@ -194,7 +162,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # 6f7987f (initialize Repo)
 
 <p align="center">The Laravel framework is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.</p>
-7131587 (Update README.md)
+
 
 Hello, World!
 88c89b4 (First commit)
