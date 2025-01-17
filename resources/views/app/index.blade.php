@@ -1,6 +1,6 @@
 @extends('layout.master')
 
-@section('title-pub', 'SeaFlashTix | All Films')
+@section('title-pub', 'SeatMovies | All Films')
 
 @section('content')
     <section class="section" id="our-films">

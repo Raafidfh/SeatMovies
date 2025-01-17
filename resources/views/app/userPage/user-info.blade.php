@@ -43,7 +43,7 @@
                                             <div class="card shadow-primary border border-primary">
                                                 <div class="card-body">
                                                     <h6>Pengeluaran Terakhir</h6>
-                                                    <h6>Rp. {{ number_format(90000, 0, ',', '.') }}</h6>
+                                                    <h6>Rp. {{ number_format($lastExpenditure, 0, ',', '.') }}</h6>
                                                 </div>
                                             </div>
                                         </div>

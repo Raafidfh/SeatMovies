@@ -73,10 +73,10 @@
             <div class="main-sidebar sidebar-style-2">
                 <aside id="sidebar-wrapper">
                     <div class="sidebar-brand">
-                        <a href="index.html">SeaFlashTix</a>
+                        <a href="{{ route('films.index') }}">SeatMovies</a>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
-                        <a href="index.html">SC</a>
+                        <a href="{{ route('films.index') }}">SM</a>
                     </div>
                     <ul class="sidebar-menu">
                         @yield('sidebar-user-booking')
@@ -102,7 +102,7 @@
             {{-- FOOTER --}}
             <footer class="main-footer">
                 <div class="text-center">
-                    Developed by Ilham Yudantyo &copy; 2023
+                    Developed by Raafid ft. Ical &copy; 2025
                 </div>
             </footer>
             {{-- END FOOTER --}}

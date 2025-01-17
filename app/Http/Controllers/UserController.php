@@ -12,9 +12,18 @@ use App\Http\Requests\TopUpBalanceRequest;
 
 class UserController extends Controller
 {
-    public function index(){
-        return view('app.userPage.user-info');
+    public function index() 
+    {
+        $lastExpenditure = Transaction::where('user_id', auth()->user()->id)
+            ->latest()
+            ->first()
+            ->total_cost ?? 0;
+    
+        return view(view: 'app.userPage.user-info', data: [
+            'lastExpenditure' => $lastExpenditure
+        ]);
     }
+
 
     public function topupBalance(TopUpBalanceRequest $request){
         $userId = auth()->user()->id;

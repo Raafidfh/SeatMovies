@@ -18,6 +18,8 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'error_reporting' => error_reporting(E_ALL & ~E_DEPRECATED),
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
