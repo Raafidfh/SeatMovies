@@ -1,6 +1,7 @@
 HEAD
 HEAD
 HEAD
+HEAD
 
 # SeatMovies
 
@@ -42,10 +43,10 @@ Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL 
 
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install. Jalankan perintah-perintah di bawah ini dengan menggunakan terminal Git Bash.
 
-> > > > > > > e03434e (Update README.md)
+e03434e (Update README.md)
 
 1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
-    > > > > > > > d9efd63 (Update README.md)
+   d9efd63 (Update README.md)
 
 ```
 git clone https://github.com/ilhamydn17/seaAcd23.git
@@ -194,3 +195,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <p align="center">The Laravel framework is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.</p>
 7131587 (Update README.md)
+
+Hello, World!
+88c89b4 (First commit)
